@@ -1,2 +1,0 @@
-# virus-bat
-virus.bat
